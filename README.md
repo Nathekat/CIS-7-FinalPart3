@@ -1,4 +1,5 @@
 # CIS-7-FinalPart3
+Project by Team Rocket AKA Natalia Carbajal and Cody Pfrunder
 The solution created through our program allows a user to first decide if they would like to
 encrypt or decrypt a message, or exit the program. Once a choice is made, the user enters a
 menu to where they decide on encrypting or decrypting. The user then provides a message to
